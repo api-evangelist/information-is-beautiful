@@ -1,0 +1,48 @@
+{
+    "name": "Information is Beautiful",
+    "description": "<p>Myself,<span> and the rest of the crack team here at Information is Beautiful, are dedicated to distilling the world&rsquo;s data, information and knowledge into beautiful, interesting and, above all, useful visualizations, <\/span>infographics<span> and diagrams.<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/information-is-beautiful.png",
+    "tags": [
+        "have api",
+        "visualizations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/information-is-beautiful\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Information is Beautiful",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/information-is-beautiful.png",
+            "humanURL": "http:\/\/www.informationisbeautiful.net\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/information-is-beautiful-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.informationisbeautiful.net\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/InformationIsBeautiful"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/infobeautiful"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.informationisbeautiful.net\/"
+        }
+    ]
+}
